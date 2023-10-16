@@ -6,7 +6,3 @@ local v0=string.char;local v1=string.byte;local v2=string.sub;local v3=bit32 or 
  |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
  |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
          \/          \/         \/    \/                \/     \/     \/                   
-          \_Welcome to LuaObfuscator.com   (Alpha 0.9.16) ~  Much Love, Ferib 
-
-]]--
-
